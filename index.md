@@ -9,10 +9,13 @@ In today's world, timely and accurate disease diagnosis is crucial for effective
 The heart of our web app lies in its sophisticated AI algorithm. Using machine learning and deep learning techniques, our algorithm analyzes leaf image and extracts valuable insights. It can identify patterns, anomalies, and trends in image data, aiding farmers and researchers in making informed decisions.
 
 ## 2.1 Phases  
-
+<br>
 --> Image Classification
+<br>
 --> Severity Quantification
+<br>
 --> Recommendation Algorithm 
+<br>
 
 ## 2.1.1 Image Classification 
 
