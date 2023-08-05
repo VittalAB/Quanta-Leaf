@@ -28,9 +28,9 @@ In this phase we quantify the diesase and find out the percentage of infected ar
 
 ![Object Detection Algorithm](https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/1cca4ecf-8224-4568-b553-deb5780cc021)
 
-<center>
-![Severity Quantification Algorithm](https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/bf59bcb1-1af9-46a3-8eec-08e237cd8074)
-</center>
+<p align="center">
+  <img src="https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/bf59bcb1-1af9-46a3-8eec-08e237cd8074" />
+</p>
 
 ## 2.1.3 Recommendation System 
 
@@ -47,11 +47,10 @@ Accurate disease diagnosis depends on diverse and high-quality datasets. Our web
 
 Finally we can conclude that our model was able to classify and identify the disease with 99% of accuracy and recommends fungicde quantity based on severity and weather based preediction which provides real time insights and predicts the future infection rate.
 
-<center>
-![f6](https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/e7e34a65-6e39-452d-a7e8-55e393350847)
-</center>
 
-
+<p align="center">
+  <img src="https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/e7e34a65-6e39-452d-a7e8-55e393350847" />
+</p>
 
 # For more details and a deeper understanding of our web app's capabilities, we are planning to release android version of the same and host our web tool soon. 😊✌
 
