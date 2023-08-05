@@ -10,9 +10,9 @@ The heart of our web app lies in its sophisticated AI algorithm. Using machine l
 
 ## 2.1 Phases  
 
-### Image Classification
-### Severity Quantification
-### Recommendation Algorithm 
+--> Image Classification
+--> Severity Quantification
+--> Recommendation Algorithm 
 
 ## 2.1.1 Image Classification 
 
@@ -52,6 +52,6 @@ Finally we can conclude that our model was able to classify and identify the dis
   <img src="https://github.com/VittalAB/Quanta-Leaf-/assets/59869004/e7e34a65-6e39-452d-a7e8-55e393350847" />
 </p>
 
-## For more details and a deeper understanding of our web app's capabilities, we are planning to release android version of the same and host our web tool soon. 😊✌
+### <i> For more details and a deeper understanding of our web app's capabilities, we are planning to release android version of the same and host our web tool soon. </i> 😊✌
 
 
